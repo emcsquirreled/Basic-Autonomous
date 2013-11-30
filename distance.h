@@ -1,6 +1,16 @@
+/*
+
+    This function use records the distance gone in rotations
+
+*/
+
+
+
 float distance = 0;
 
 float distanceF2 = 0;
+
+
 
 task Distance()
 
